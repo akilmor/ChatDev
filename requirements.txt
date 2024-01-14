@@ -14,3 +14,5 @@ Markdown==3.4.4
 Pillow==10.1.0
 Wikipedia-API==0.6.0
 beautifulsoup4==4.12.2
+fastapi==0.109.0
+uvicorn==0.25.0
